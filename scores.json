@@ -1,0 +1,9 @@
+{
+    "theme": "Dark",
+    "sound": true,
+    "lifetime_scores": {
+        "X": 0,
+        "O": 0,
+        "Draws": 0
+    }
+}
