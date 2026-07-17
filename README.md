@@ -124,7 +124,7 @@ The executable will appear inside the `dist` folder.
 
 ## Author
 
-**Tajudeen Busari**
+**Oyelaja umar**
 
 ## License
 
